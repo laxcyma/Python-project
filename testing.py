@@ -1,1 +1,0 @@
-print("Laxcyma b")
